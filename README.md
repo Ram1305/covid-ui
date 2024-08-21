@@ -1,17 +1,5 @@
 # covid
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+COVID Dashboard is a comprehensive and user-friendly mobile application developed with Flutter. Stay informed with a modern, adaptive design that ensures a seamless experience across all screen sizes. Access real-time COVID-19 statistics, including cases, recoveries, and vaccination data, through dynamic and interactive charts. Benefit from clear visualizations and intuitive navigation that make tracking the pandemics impact both straightforward and insightful.',
+ 
 ![1723889571202-portrait](https://github.com/user-attachments/assets/fb0e90ef-a63b-4225-ba2f-4be6d0c6e6e5)
